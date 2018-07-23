@@ -1,0 +1,7 @@
+c:\users\jusja\source\repos\GC_Cap_1\GC_Cap_1\bin\Debug\GC_Cap_1.exe.config
+c:\users\jusja\source\repos\GC_Cap_1\GC_Cap_1\bin\Debug\GC_Cap_1.exe
+c:\users\jusja\source\repos\GC_Cap_1\GC_Cap_1\bin\Debug\GC_Cap_1.pdb
+c:\users\jusja\source\repos\GC_Cap_1\GC_Cap_1\obj\Debug\GC_Cap_1.csproj.CoreCompileInputs.cache
+c:\users\jusja\source\repos\GC_Cap_1\GC_Cap_1\obj\Debug\GC_Cap_1.exe
+c:\users\jusja\source\repos\GC_Cap_1\GC_Cap_1\obj\Debug\GC_Cap_1.pdb
+C:\Users\jusja\source\repos\GC_Cap_1\GC_Cap_1\obj\Debug\GC_Cap_1.csprojAssemblyReference.cache
